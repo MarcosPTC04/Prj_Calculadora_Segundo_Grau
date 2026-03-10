@@ -2,7 +2,7 @@ package com.poo.prjeqseggrau_pooi;
 
 /**
  *
- * @author Iftm
+ * @author Marcos
  */
 public class DadosEntrada {
     private double a;
@@ -34,3 +34,4 @@ public class DadosEntrada {
     }
 
 }
+
