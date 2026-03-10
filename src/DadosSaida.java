@@ -6,7 +6,7 @@ package com.poo.prjeqseggrau_pooi;
 
 /**
  *
- * @author Iftm
+ * @author Marcos
  */
 public class DadosSaida {
     
@@ -58,3 +58,4 @@ public class DadosSaida {
 
     
 }
+
