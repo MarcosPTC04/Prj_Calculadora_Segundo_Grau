@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Iftm
+ * @author Marcos
  */
 public class PrjEqSegGrau_POOI {
 
