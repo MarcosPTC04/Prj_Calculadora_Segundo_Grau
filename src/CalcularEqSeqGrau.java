@@ -6,7 +6,7 @@ package com.poo.prjeqseggrau_pooi;
 
 /**
  *
- * @author Iftm
+ * @author Marcos
  */
 public class CalcularEqSeqGrau {
     
@@ -38,3 +38,4 @@ public class CalcularEqSeqGrau {
     }
     
 }
+
