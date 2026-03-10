@@ -34,6 +34,6 @@ Não foram utilizadas variáveis globais; toda a manipulação de dados ocorre v
 
 ## 👨‍💻 Autor
 
-Iftm
-Curso: ANÁLISE E DESENVOLVIMENTO DE SISTEMAS
+Marcos Antonio  
+Curso: ANÁLISE E DESENVOLVIMENTO DE SISTEMAS  
 Disciplina: Programação Orientada a Objetos I
